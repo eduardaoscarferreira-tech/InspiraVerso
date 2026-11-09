@@ -15,6 +15,10 @@ Abra a seção Releases (Versões) desta página e baixe um dos arquivos da vers
 
 O Windows pode avisar que o editor é desconhecido, porque o instalador não tem assinatura digital.
 
+## Licença
+
+Uso gratuito. É proibido vender, cobrar ou modificar o aplicativo sem autorização por escrito da titular, Duda Ferreira. Leia o contrato completo em LICENCA.txt.
+
 ## Créditos
 
 Idealização: Duda Ferreira.
