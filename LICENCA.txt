@@ -1,0 +1,77 @@
+﻿CONTRATO DE LICENÇA DE USO DO INSPIRAVERSO
+Versão 1 da licença, novembro de 2026
+
+Titular dos direitos: Duda Ferreira.
+Idealização: Duda Ferreira.
+Código desenvolvido com auxílio do ChatGPT (OpenAI) e do Claude (Anthropic).
+
+Leia este contrato com atenção. Ao instalar, criar uma cópia portátil ou usar o
+InspiraVerso, você declara que leu e aceita estes termos. Se não concordar, não
+instale nem use o aplicativo.
+
+1. O QUE ESTE CONTRATO PERMITE
+1.1. O InspiraVerso é gratuito. Você pode instalá-lo e usá-lo em quantos
+computadores quiser, para fins pessoais, educacionais, profissionais ou
+institucionais, sem pagar nada.
+1.2. Você pode compartilhar o InspiraVerso com outras pessoas, desde que seja de
+graça, sem nenhuma alteração e junto com este contrato.
+
+2. O QUE É PROIBIDO SEM AUTORIZAÇÃO POR ESCRITO DA TITULAR
+2.1. Vender, alugar, emprestar mediante pagamento ou cobrar qualquer valor pelo
+InspiraVerso, inclusive por download, instalação, acesso ou cópia.
+2.2. Incluir o InspiraVerso em produtos, pacotes, cursos, serviços ou coletâneas
+pagos, ou usá-lo como parte de qualquer oferta comercial.
+2.3. Modificar, adaptar, traduzir ou criar obras derivadas do aplicativo, de
+qualquer parte dele ou da sua interface.
+2.4. Descompilar, desmontar, extrair o código ou fazer engenharia reversa, salvo
+nos casos expressamente permitidos pela lei brasileira.
+2.5. Distribuir versões alteradas, ou publicar o aplicativo com outro nome.
+2.6. Remover ou alterar este contrato, os créditos ou os avisos de direitos.
+
+Pedidos de autorização podem ser feitos pela Central de Ajuda do aplicativo, na
+opção Enviar sugestão ou relatório.
+
+3. OS SEUS TEXTOS SÃO SEUS
+Tudo o que você escreve, compõe ou organiza no InspiraVerso pertence a você. Este
+contrato não dá à titular nenhum direito sobre o seu conteúdo. Seus textos ficam no
+seu computador.
+
+4. SERVIÇOS DE INTELIGÊNCIA ARTIFICIAL
+Os recursos de inteligência artificial usam a chave e a conta que você mesmo
+informar (Gemini, OpenAI, Claude, Grok ou outro serviço). O uso desses serviços
+segue os termos e preços de cada empresa, e só é feito quando você escolhe
+consultar. As menções a essas empresas são apenas descritivas: o InspiraVerso não é
+um produto oficial nem patrocinado por elas.
+
+5. COMPONENTES DE OUTROS AUTORES
+O InspiraVerso usa componentes de outros autores, como o Electron e o Chromium, que
+têm licenças próprias e livres. Essas licenças continuam valendo para esses
+componentes e seus avisos acompanham o aplicativo. As proibições deste contrato
+valem para o InspiraVerso, não para esses componentes.
+
+6. SEM GARANTIA
+O InspiraVerso é oferecido gratuitamente e "no estado em que se encontra". Não há
+garantia de que funcione sem erros ou em todos os computadores. Faça cópias de
+segurança dos seus textos com frequência; o aplicativo oferece essa opção.
+
+7. LIMITE DE RESPONSABILIDADE
+Na medida permitida pela lei, a titular e quem colaborou com o aplicativo não
+respondem por perdas de dados, lucros ou outros danos decorrentes do uso ou da
+impossibilidade de uso do InspiraVerso.
+
+8. FIM DA LICENÇA
+Se algum termo deste contrato for descumprido, a licença termina automaticamente, e
+você deve parar de usar e de distribuir o aplicativo.
+
+9. ATUALIZAÇÕES DESTE CONTRATO
+Versões futuras do InspiraVerso podem trazer um contrato atualizado. Quando isso
+acontecer, o aplicativo pedirá um novo aceite.
+
+10. LEI APLICÁVEL
+Este contrato segue as leis da República Federativa do Brasil, em especial a Lei
+nº 9.609/1998 (programas de computador) e a Lei nº 9.610/1998 (direitos autorais).
+
+Todos os direitos não concedidos expressamente neste contrato ficam reservados à
+titular.
+
+InspiraVerso © 2026 Duda Ferreira. Todos os direitos reservados.
